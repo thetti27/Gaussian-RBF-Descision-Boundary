@@ -4,6 +4,8 @@ In this project, we aim to explore the use of Gaussian RBF in creating a decisio
 
 The repository contains a Jupyter notebook along with all the necessary data and code to replicate our experiments and reproduce our results. We demonstrate how to use the svm module from scikit-learn to train an SVM classifier with the Gaussian RBF kernel and visualize the decision boundary in 2D and 3D.
 
+![grbf](https://user-images.githubusercontent.com/57488820/232582078-c69bf5ae-5653-48e3-950c-8b6feef492c9.png)
+
 The libraries we import at the beginning of the script have the following functions:
 
 %matplotlib inline is a Jupyter notebook magic command that allows for inline plotting in the notebook. This enables us to visualize the decision boundary in the notebook itself.
